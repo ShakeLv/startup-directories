@@ -20,8 +20,8 @@ Subreddits | Link
 
 Site name | Link
 --- | ---
-| AI Tools Radar | https://aitoolsradar.com/en/submit
 | Addictive Tips | http://www.addictivetips.com/
+| AI Tools Radar | https://aitoolsradar.com/en/submit
 | All Startups | http://www.allstartups.info/Startups/Submit
 | All My Faves | http://www.allmyfaves.com/
 | All Top Startups | http://alltopstartups.com/submit-startup/
